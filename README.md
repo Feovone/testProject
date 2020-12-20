@@ -4,4 +4,4 @@ To calculate the gross margin, the following formula was used: <br /> (Total Inc
 To start, run composer update in cmd and install the database, use the full path in .env 
 DB_DATABASE = "../testTask/database/database.sqlite";
 DB_CONNECTION=sqlite;<br /> 
-
+![functional demonstration](functional%20demonstration.png)
